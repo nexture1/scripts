@@ -1,0 +1,138 @@
+-- Farewell Infortality.
+-- Version: 2.82
+-- Instances:
+local RobloxianExploit = Instance.new("ScreenGui")
+local Main = Instance.new("ImageLabel")
+local TextLabel = Instance.new("TextLabel")
+local GustoHotels = Instance.new("TextButton")
+local BananaSim = Instance.new("TextButton")
+local QClash = Instance.new("TextButton")
+local Gamedevsim = Instance.new("TextButton")
+local noobsim = Instance.new("TextButton")
+local WeightChampion = Instance.new("TextButton")
+local workhotel = Instance.new("TextButton")
+local TextLabel_2 = Instance.new("TextLabel")
+local TextLabel_3 = Instance.new("TextLabel")
+--Properties:
+RobloxianExploit.Name = "RobloxianExploit"
+RobloxianExploit.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+RobloxianExploit.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Main.Name = "Main"
+Main.Parent = RobloxianExploit
+Main.BackgroundColor3 = Color3.new(1, 1, 1)
+Main.BackgroundTransparency = 1
+Main.Position = UDim2.new(0.0857805312, 0, 0.275256246, 0)
+Main.Size = UDim2.new(0, 420, 0, 249)
+Main.Image = "rbxassetid://2260429633"
+Main.ImageColor3 = Color3.new(0.901961, 0.494118, 0.133333)
+Main.ScaleType = Enum.ScaleType.Slice
+Main.SliceCenter = Rect.new(12, 12, 13, 13)
+
+TextLabel.Parent = Main
+TextLabel.BackgroundColor3 = Color3.new(0.901961, 0.494118, 0.133333)
+TextLabel.BorderColor3 = Color3.new(0.901961, 0.494118, 0.133333)
+TextLabel.Position = UDim2.new(0.252380967, 0, 0.0240963846, 0)
+TextLabel.Size = UDim2.new(0, 207, 0, 45)
+TextLabel.Font = Enum.Font.Highway
+TextLabel.Text = "Robloxian Cheaters"
+TextLabel.TextColor3 = Color3.new(0, 0, 0)
+TextLabel.TextSize = 30
+
+GustoHotels.Name = "GustoHotels"
+GustoHotels.Parent = Main
+GustoHotels.BackgroundColor3 = Color3.new(0.905882, 0.298039, 0.235294)
+GustoHotels.BorderColor3 = Color3.new(0.901961, 0.494118, 0.133333)
+GustoHotels.Position = UDim2.new(0.0666666701, 0, 0.236947775, 0)
+GustoHotels.Size = UDim2.new(0, 100, 0, 31)
+GustoHotels.Font = Enum.Font.Highway
+GustoHotels.Text = "Gusto Hotels"
+GustoHotels.TextColor3 = Color3.new(1, 1, 1)
+GustoHotels.TextSize = 20
+
+BananaSim.Name = "BananaSim"
+BananaSim.Parent = Main
+BananaSim.BackgroundColor3 = Color3.new(0.905882, 0.298039, 0.235294)
+BananaSim.BorderColor3 = Color3.new(0.901961, 0.494118, 0.133333)
+BananaSim.Position = UDim2.new(0.359049082, 0, 0.236900732, 0)
+BananaSim.Size = UDim2.new(0, 100, 0, 31)
+BananaSim.Font = Enum.Font.Highway
+BananaSim.Text = "Banana Simulator"
+BananaSim.TextColor3 = Color3.new(1, 1, 1)
+BananaSim.TextSize = 15
+
+QClash.Name = "Q-Clash"
+QClash.Parent = Main
+QClash.BackgroundColor3 = Color3.new(0.905882, 0.298039, 0.235294)
+QClash.BorderColor3 = Color3.new(0.901961, 0.494118, 0.133333)
+QClash.Position = UDim2.new(0.647144318, 0, 0.236900732, 0)
+QClash.Size = UDim2.new(0, 100, 0, 31)
+QClash.Font = Enum.Font.Highway
+QClash.Text = "Q-Clash"
+QClash.TextColor3 = Color3.new(1, 1, 1)
+QClash.TextSize = 20
+
+Gamedevsim.Name = "Gamedevsim"
+Gamedevsim.Parent = Main
+Gamedevsim.BackgroundColor3 = Color3.new(0.905882, 0.298039, 0.235294)
+Gamedevsim.BorderColor3 = Color3.new(0.901961, 0.494118, 0.133333)
+Gamedevsim.Position = UDim2.new(0.0661919117, 0, 0.437703967, 0)
+Gamedevsim.Size = UDim2.new(0, 100, 0, 31)
+Gamedevsim.Font = Enum.Font.Highway
+Gamedevsim.Text = "Game Dev Simulator"
+Gamedevsim.TextColor3 = Color3.new(1, 1, 1)
+Gamedevsim.TextSize = 12
+
+noobsim.Name = "noobsim"
+noobsim.Parent = Main
+noobsim.BackgroundColor3 = Color3.new(0.905882, 0.298039, 0.235294)
+noobsim.BorderColor3 = Color3.new(0.901961, 0.494118, 0.133333)
+noobsim.Position = UDim2.new(0.359049052, 0, 0.437703967, 0)
+noobsim.Size = UDim2.new(0, 100, 0, 31)
+noobsim.Font = Enum.Font.Highway
+noobsim.Text = "Noob Simulator"
+noobsim.TextColor3 = Color3.new(1, 1, 1)
+noobsim.TextSize = 15
+
+WeightChampion.Name = "WeightChampion"
+WeightChampion.Parent = Main
+WeightChampion.BackgroundColor3 = Color3.new(0.905882, 0.298039, 0.235294)
+WeightChampion.BorderColor3 = Color3.new(0.901961, 0.494118, 0.133333)
+WeightChampion.Position = UDim2.new(0.647144318, 0, 0.437703967, 0)
+WeightChampion.Size = UDim2.new(0, 100, 0, 31)
+WeightChampion.Font = Enum.Font.Highway
+WeightChampion.Text = "Weight Champion"
+WeightChampion.TextColor3 = Color3.new(1, 1, 1)
+WeightChampion.TextSize = 15
+
+workhotel.Name = "workhotel"
+workhotel.Parent = Main
+workhotel.BackgroundColor3 = Color3.new(0.905882, 0.298039, 0.235294)
+workhotel.BorderColor3 = Color3.new(0.901961, 0.494118, 0.133333)
+workhotel.Position = UDim2.new(0.359049052, 0, 0.638507128, 0)
+workhotel.Size = UDim2.new(0, 100, 0, 31)
+workhotel.Font = Enum.Font.Highway
+workhotel.Text = "Work at a hotel"
+workhotel.TextColor3 = Color3.new(1, 1, 1)
+workhotel.TextSize = 15
+
+TextLabel_2.Parent = Main
+TextLabel_2.BackgroundColor3 = Color3.new(0.901961, 0.494118, 0.133333)
+TextLabel_2.BorderColor3 = Color3.new(0.901961, 0.494118, 0.133333)
+TextLabel_2.Position = UDim2.new(0.252380967, 0, 0.935742974, 0)
+TextLabel_2.Size = UDim2.new(0, 207, 0, 10)
+TextLabel_2.Font = Enum.Font.Highway
+TextLabel_2.Text = "Founded by Builderman and Victor"
+TextLabel_2.TextColor3 = Color3.new(0, 0, 0)
+TextLabel_2.TextSize = 10
+
+TextLabel_3.Parent = Main
+TextLabel_3.BackgroundColor3 = Color3.new(0.901961, 0.494118, 0.133333)
+TextLabel_3.BorderColor3 = Color3.new(0.901961, 0.494118, 0.133333)
+TextLabel_3.Position = UDim2.new(0.252380967, 0, 0.871485949, 0)
+TextLabel_3.Size = UDim2.new(0, 207, 0, 16)
+TextLabel_3.Font = Enum.Font.Highway
+TextLabel_3.Text = "Sharing this script will result in blacklist"
+TextLabel_3.TextColor3 = Color3.new(0, 0, 0)
+TextLabel_3.TextSize = 10
+-- Scripts:
